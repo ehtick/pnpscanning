@@ -7,6 +7,7 @@ This module carries the classic page scanning capability of the older [SharePoin
 The assessment provides you with:
 
 - A per-page inventory of the classic pages found (page type, layout, home-page flags, last modified, usage) — see [classicpages.csv](csv-classicpages.md).
+- A per-page audit log usage report (view/create/edit counts and distinct users per classic page) — see [classicpageauditusage.csv](csv-classicpageauditusage.md).
 - A per-web-part inventory of every web part found on those pages — see [classicpagewebparts.csv](csv-classicpagewebparts.md).
 - A tenant-wide inventory of the unique web part types encountered and whether each is known to the modern mapping model — see [classicwebpartunique.csv](csv-classicwebpartunique.md).
 - Web- and site-level [readiness roll-ups](csv-classicwebsummaries.md) and a [Power BI report](report-intro.md) to visualize the results.

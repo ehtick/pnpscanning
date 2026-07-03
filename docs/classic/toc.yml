@@ -10,6 +10,8 @@
   items:
     - name: classicpages.csv
       href: csv-classicpages.md
+    - name: classicpageauditusage.csv
+      href: csv-classicpageauditusage.md
     - name: classicpagewebparts.csv
       href: csv-classicpagewebparts.md
     - name: classicwebpartunique.csv
