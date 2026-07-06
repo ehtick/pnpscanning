@@ -6,6 +6,8 @@
   href: assess.md
 - name: Report
   href: report-intro.md
+- name: Migrate to modern
+  href: migrate-minimal-permissions.md
 - name: CSV files
   items:
     - name: classicpages.csv
